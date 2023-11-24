@@ -1,12 +1,25 @@
 ### Hi there 👋
 
 🔭 I’m currently in university working towards My Bachelors In Information Technology- I am majoring in Cyber Security
+
+
 🌱 I’m currently learning Python and advanced networking; I have also been teaching myself Kali Linux.
+
+
 👯 I’m looking to collaborate on anything cybersecurity-related.
+
+
 🤔 I’m looking for help with a- freestyle coke project I'm working on.  👌 The limit should not exist 
+
+
 💬 Ask me about being a woman in tech.
+
+
 📫 How to reach me: here or my email salcedocharlotte-gmail-com
+
+
 😄 Pronouns: I/told/you/so
+
 ⚡ Fun fact: I'm female, but everything I do is related to traditionally male interests. I game, code, and spend most of my time on my computer or drawing, engaging in activities typically associated with males. However, my interests doesnt mean I believe I'm a man or some crazy mess.  I just prefer the company of males and find it difficult to connect with other females, I believe males to be a superior species. I don't have tattoos, piercings, or unconventional hair colors. I don't wear jewelry, and I prefer a simple, minimalist style, often opting for a black hoodie, black pants, and an occasional band t-shirt when it gets hot. I embrace a subtle femininity that doesn't seek attention, focusing on being reserved and well-dressed. I identify as an introvert and, unfortunately, have Asperger's syndrome, which means I tend to talk extensively about subjects I'm passionate about, often misinterpreted as being social. In reality, I have high-functioning autism, which impairs my ability to pick up on social cues or realize when my conversations may be offensive. This poses challenges, which is why I gravitated toward a field where I can work with like-minded individuals.
 Pet peeves: I have sensory sensitivities that make it uncomfortable to wear or touch certain materials, which is why I avoid jewelry. I dislike being coerced into doing things against my will, even in non-work settings. I have a strong aversion to working with individuals who are not truly team-oriented, as I often end up doing the entire project by myself while others are distracted. I'm also put off by insincere people and am easily disturbed by a disorganized or dirty environment. Additionally, I dislike driving.
 
