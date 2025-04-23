@@ -1,7 +1,7 @@
 # Charlotte Salcedo Interactive Resume
 
 **IT Support Specialist | Help Desk | Remote Tech Support | Troubleshooting & Security | Entry-Level Cybersecurity**  
-**813.428.0651 | [it.dev.mes@gmail.com](mailto:it.dev.mes@gmail.com) | Dade City, FL 33525**  
+* | [it.dev.mes@gmail.com](mailto:it.dev.mes@gmail.com) | Dade City, FL 33525**  
 **[LinkedIn](https://linkedin.com/in/charlottesalcedo) | [GitHub](https://github.com/salcedocharlotte) | [Hack The Box](https://ctf.hackthebox.com/user/profile/314205) | [Behance](https://www.behance.net/)**
 
 ---
