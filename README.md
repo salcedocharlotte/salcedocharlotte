@@ -1,119 +1,79 @@
 # Charlotte Salcedo Interactive Resume
 
-**IT Support Specialist | Help Desk | Remote Tech Support | Troubleshooting & Security | Entry-Level Cybersecurity**  
-* | [it.dev.mes@gmail.com](mailto:it.dev.mes@gmail.com) | Dade City, FL 33525**  
-**[LinkedIn](https://linkedin.com/in/charlottesalcedo) | [GitHub](https://github.com/salcedocharlotte) | [Hack The Box](https://ctf.hackthebox.com/user/profile/314205) | [Behance](https://www.behance.net/)**
+
+# 👩‍💻 Charlotte Salcedo
+
+**Entry-Level Cybersecurity Analyst | GRC | SOC | Ethical Hacking**  
+📧 cpayan4@wgu.edu  
+🌐 [graphicdesigner.dev](https://graphicdesigner.dev)  
+🔗 [LinkedIn](https://www.linkedin.com/in/charlottesalcedo)
 
 ---
 
-## Table of Contents
-
-- [Professional Summary](#professional-summary)
-- [Education](#education)
-- [Technical Skills](#technical-skills)
-- [Professional Experience](#professional-experience)
-- [Cybersecurity & Ethical Hacking](#cybersecurity--ethical-hacking)
-- [Web Development Projects](#web-development-projects)
-- [Certifications & Achievements](#certifications--achievements)
-- [Additional Information](#additional-information)
+🎓 **Education**
+- **M.S. Cybersecurity and Information Assurance** *(In Progress, WGU – Expected 2026)*  
+  *Planned Certifications: CySA+, PenTest+, CASP+, CISM*
+- **B.S. Information Technology & Cybersecurity** *(Strayer University, 2024)*
+- **A.S. Digital Graphic Arts** *(International Academy of Design and Technology, 2003–2006)*
 
 ---
 
-## Professional Summary
-
-<details>
-  <summary>Click to expand</summary>
-  
-Detail-oriented IT professional with a strong background in cybersecurity, technical support, and digital graphic arts. Experienced in customer service, technical troubleshooting, and security-related challenges. Passionate about ethical hacking, cybersecurity competitions, and web development.
-  
-</details>
+📜 **Certifications**
+- ISC2 Certified in Cybersecurity (CC)
+- CIS332: Network Server Admin I (uCertify)
+- Upcoming: CySA+, PenTest+, CASP+, CISM
 
 ---
 
-## Education
-
-<details>
-  <summary>Click to expand</summary>
-  
-- **Bachelor of Science in Information Technology (Concentration in Cybersecurity)** – Strayer University, Graduated 2024  
-- **Associate of Science in Digital Graphic Arts** – Graduated 2006
-  
-</details>
+🛠 **Technical Skills**
+- **Security:** CIA Triad, IAM, Access Controls, Firewalls, IDS/IPS, VPNs, NIST
+- **Tools:** Splunk, Kali Linux, Metasploit, Burp Suite, Wireshark, VirtualBox, Azure
+- **Programming & Web:** HTML, CSS, JavaScript, WordPress
+- **Creative:** Adobe Creative Suite, UI/UX Design
+- **OSINT & GRC:** Threat investigation, social engineering awareness, ISO/IEC 27001 familiarity
 
 ---
 
-## Technical Skills
-
-<details>
-  <summary>Click to expand</summary>
-  
-- Cybersecurity principles and best practices  
-- Web development (HTML, CSS, JavaScript, WordPress)  
-- Technical support and customer service  
-- Ethical hacking & penetration testing (Hack the Box, CTF competitions)  
-- Digital graphic design (Adobe Creative Suite)  
-- OSINT & investigative techniques  
-
-</details>
+🔬 **Projects**
+- **WGU Cybersecurity Labs**  
+  Hands-on labs with vulnerability scanning, ethical hacking, network defense
+- **OSINT & Threat Investigation (Personal)**  
+  Tracked online scams, compiled digital footprints, educated victims on fraud prevention
 
 ---
 
-## Professional Experience
-
-<details>
-  <summary>Click to expand</summary>
-  
-**USAA – Intern (Credit Card Department, Customer Service & Technical Support)**  
-*April 2023 – September 2023*  
-
-- Provided technical and customer service support for credit card operations.  
-- Assisted customers with technical issues and inquiries regarding their accounts.  
-- Gained experience in financial security protocols and fraud prevention techniques.
-
-</details>
+🧠 **Soft Skills**
+- Analytical thinker • Ethical & focused • Strong communicator • Detail-oriented • Creative problem solver
 
 ---
 
-## Cybersecurity & Ethical Hacking
-
-<details>
-  <summary>Click to expand</summary>
-  
-- Active participant in Capture the Flag (CTF) competitions  
-- [Hack The Box Profile](https://ctf.hackthebox.com/user/profile/314205)  
-- Experienced in ethical hacking methodologies and security testing
-
-</details>
+💼 **Experience**
+- **USAA – Intern, Tech Support (Credit Card Dept.)**  
+  Customer support, fraud prevention tools, digital troubleshooting  
+- **CenturyLink – Sales & Support**  
+  Technical support, CRM, connectivity troubleshooting, customer education
 
 ---
 
-## Web Development Projects
-
-<details>
-  <summary>Click to expand</summary>
-  
-- **Graphic Designer Portfolio** – Personal portfolio showcasing graphic design and web development work.  
-- **Graphic Designer for Hire** – Freelance graphic and web design service.  
-- **Art Academy Club** – Online platform for artistic collaborations and news.
-
-</details>
+🌐 **Web Projects**
+- [GraphicDesigner.dev](https://graphicdesigner.dev) – Cybersecurity + Creative Portfolio  
+- [photohacklovers.com](https://photohacklovers.com) – Digital assets + creative downloads  
+- [graphicdesigner4hire.com](https://graphicdesigner4hire.com) – Freelance web/design work
 
 ---
 
-## Certifications & Achievements
-
-<details>
-  <summary>Click to expand</summary>
-  
-- **CIS332: Network Server Admin I** (uCertify, Sept 16, 2023)  
-- Participated in multiple cybersecurity competitions and CTF challenges.  
-- Experienced in penetration testing tools and methodologies.
-
-</details>
+🏅 **Affiliations**
+- ISC2 Member  
+- NSA Codebreaker Challenge Participant  
+- Active in WGU Cybersecurity Student Community  
+- Hack The Box + CTF Participant
 
 ---
 
-## Additional Information
+💡 *Driven by curiosity, precision, and a passion for security, I bridge design and tech to solve complex problems. Looking to contribute to a high-impact cybersecurity team.*
 
-<details>
-  <summary>Click to expand</s
+
+
+  
+
+  
