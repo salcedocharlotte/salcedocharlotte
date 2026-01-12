@@ -3,7 +3,7 @@
 
 # 👩‍💻 Charlotte Salcedo
 
-**Entry-Level Cybersecurity Analyst | GRC | SOC | Ethical Hacking**  
+**Masters Cybersecurity Analyst | GRC | SOC | Ethical Hacking**  
 📧 cpayan4@wgu.edu  
 🌐 [graphicdesigner.dev](https://graphicdesigner.dev)  
 🔗 [LinkedIn](https://www.linkedin.com/in/charlottesalcedo)
